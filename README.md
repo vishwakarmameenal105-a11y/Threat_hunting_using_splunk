@@ -1,6 +1,6 @@
 # Threat_hunting_using_splunk
 
-# Threat Hunting: Investigating 4798 Events Using Splunk
+# Threat Hunting: Investigating 4798 Windows Events Using Splunk
 
 ## The Threat
 Event ID 4798 (User group membership enumerated) occurs when someone looks up what groups a user belongs to.
